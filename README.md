@@ -16,3 +16,9 @@
 1. Běžně používané datové typy a třídy.
 1. Analýza výstupů programu (profiling)
 
+#NÁVOD NA SPUŠTĚNÍ PROGRAMU
+
+1) stáhnětě program
+2) otevřete ve Visual Studio Code
+3) ujistěte se že máte stažený Python
+4) spustě program pomocí F5 nebo v liště
