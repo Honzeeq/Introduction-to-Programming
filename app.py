@@ -1,4 +1,4 @@
 print("Hello World!")
 name = input("Write Your name: ")
-print("Hello", name)
+print("Ahoj", name)
 input()
